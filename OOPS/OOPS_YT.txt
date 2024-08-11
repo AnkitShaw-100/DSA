@@ -1,0 +1,23 @@
+1. Creating class and objects
+2. Constructor
+3. Default constructor & Parameterized constructor  
+4. This keyword function
+5. Class function & passing object to functions
+6. Object Pointer
+7. Dynamic memory allocation
+8. User defined data structure 
+   a. creating vector
+   b. access modifiers - public, private, protected
+   c. getters & setters
+   d. inheritance - single inheritance, multi level inheritance, multiple inheritance 
+   e. polymorphism
+   f. errors - compile time error -> syntactical error
+             - run time error -> divide by 0, index out of bound 
+   g. constructor & function overloading 
+   h. operator overloading
+   i. virtual function &  overriding 
+   j. difference between function overloading & overriding
+
+
+   
+
