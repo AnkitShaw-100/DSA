@@ -1,0 +1,23 @@
+Lecture - 9
+
+1. Declaring array	√
+2. Accessing elements	√
+3. Implementation	√
+4. Array with functions 
+   a. passing the array through function	√
+   b. passing the 2d - array through function 
+5. Different types of array	√
+6. Maximum and minimum in array	√
+7. Linear search	√
+8. Reverse an array	√
+
+
+Lecture - 10
+
+1. Swap alternates - {even, odd}	√
+2. Find unique elements - {using ^ operator} - every number is repeated twice and one number is not repeated twice find that number	√
+3. Find Duplicates	√
+4. Array intersection	√
+5. Pair sum	√
+6. Find triplet with given sum √
+7. sort 0,1,2 
