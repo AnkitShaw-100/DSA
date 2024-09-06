@@ -1,16 +1,19 @@
 #include<bits/stdc++.h>
-
 using namespace std;
+
 class Stack{
     int maxsize;
     int *arr;
     int top;
+
     public:
+    
     Stack(){
         top = -1;
         maxsize = 1000;
         arr = new int[maxsize];
     }
+    
     void push(int x){
         top++;
         arr[top] = x;
@@ -20,14 +23,15 @@ class Stack{
         top--;
         return x;
     }
+
     int Top(){
         return arr[top];
     }
+
     int currentsize(){
         return top + 1;
     }
 };
-
 int main(){
     Stack s;
     s.push(1);
